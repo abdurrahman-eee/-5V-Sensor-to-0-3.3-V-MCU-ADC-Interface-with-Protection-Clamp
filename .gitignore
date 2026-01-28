@@ -1,0 +1,9 @@
+# KiCad lock files
+*.kicad_sch.lck
+*.kicad_pcb.lck
+
+# Auto-save files
+#auto_saved_files#/
+
+# Backup files
+*.bak
