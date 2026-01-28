@@ -894,6 +894,18 @@
 		(uuid "79d6ac33-c682-448e-99ff-c5c6d4c0dbc9")
 	)
 	(junction
+		(at 64.77 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c278c51-533f-431e-83c0-dca4a8cdf33b")
+	)
+	(junction
+		(at 105.41 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30a774cc-370b-4b83-aebc-299441802d06")
+	)
+	(junction
 		(at 104.14 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -910,6 +922,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1a8679b-3a60-4410-995b-84791fbc79c1")
+	)
+	(junction
+		(at 104.14 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aba285ec-a92c-4d96-a581-d66d8bc4a501")
 	)
 	(junction
 		(at 129.54 40.64)
@@ -969,6 +987,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 43.18) (xy 119.38 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e574b07-3f6f-43f2-a3f3-fe29da8c187e")
+	)
+	(wire
+		(pts
 			(xy 118.11 48.26) (xy 123.19 48.26)
 		)
 		(stroke
@@ -999,6 +1027,26 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 77.47) (xy 64.77 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "210cf1bc-2a4d-4224-9cbc-0940e7969e0f")
+	)
+	(wire
+		(pts
+			(xy 143.51 33.02) (xy 105.41 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ed4c1c0-21b9-4c8d-ac0c-82a223e32545")
+	)
+	(wire
+		(pts
 			(xy 104.14 64.77) (xy 114.3 64.77)
 		)
 		(stroke
@@ -1006,6 +1054,16 @@
 			(type default)
 		)
 		(uuid "3ca8f6a7-99a8-4a72-b8c9-0b85487368a7")
+	)
+	(wire
+		(pts
+			(xy 64.77 78.74) (xy 64.77 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f2833d9-3cba-4723-879b-04cc70088405")
 	)
 	(wire
 		(pts
@@ -1049,6 +1107,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 39.37) (xy 104.14 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "506bd937-f3c7-4793-9650-19306a5b2ee8")
+	)
+	(wire
+		(pts
 			(xy 123.19 49.53) (xy 123.19 48.26)
 		)
 		(stroke
@@ -1079,6 +1147,46 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 77.47) (xy 104.14 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66e94b29-e003-410f-a6cf-364a42c543e9")
+	)
+	(wire
+		(pts
+			(xy 104.14 39.37) (xy 104.14 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69fe652f-310e-4826-8cb4-88e0889b3f73")
+	)
+	(wire
+		(pts
+			(xy 119.38 43.18) (xy 119.38 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f0475ef-16ea-4803-87d9-72d7e05e26af")
+	)
+	(wire
+		(pts
+			(xy 143.51 55.88) (xy 143.51 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73728301-44cb-4869-97aa-16096adbb2a9")
+	)
+	(wire
+		(pts
 			(xy 104.14 44.45) (xy 104.14 46.99)
 		)
 		(stroke
@@ -1086,6 +1194,26 @@
 			(type default)
 		)
 		(uuid "8ca9e16c-5029-4667-ae79-1017e8c4e953")
+	)
+	(wire
+		(pts
+			(xy 119.38 39.37) (xy 105.41 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e14ee4d-15fb-4b89-a887-68f8a880b02b")
+	)
+	(wire
+		(pts
+			(xy 55.88 44.45) (xy 104.14 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92c1a904-64f9-49bc-a976-76f36ca6cbdb")
 	)
 	(wire
 		(pts
@@ -1149,13 +1277,13 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 44.45) (xy 104.14 44.45)
+			(xy 105.41 33.02) (xy 105.41 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c075578e-5dd9-4b52-8b3c-451346b298f5")
+		(uuid "c462c845-6faa-4670-8156-343cb764659a")
 	)
 	(wire
 		(pts
@@ -1166,6 +1294,16 @@
 			(type default)
 		)
 		(uuid "c5bf95bf-6aee-45c8-a723-874d607fb9cd")
+	)
+	(wire
+		(pts
+			(xy 55.88 77.47) (xy 64.77 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cacdcd3e-ac84-4fff-bfa1-03f510aba3f0")
 	)
 	(wire
 		(pts
@@ -1186,6 +1324,16 @@
 			(type default)
 		)
 		(uuid "d50c588e-5072-4103-892f-642e98a752e0")
+	)
+	(wire
+		(pts
+			(xy 55.88 44.45) (xy 55.88 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc740336-407e-42c0-8b6f-662099cce923")
 	)
 	(wire
 		(pts
@@ -1219,7 +1367,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 46.99) (xy 123.19 48.26)
+			(xy 123.19 43.18) (xy 123.19 48.26)
 		)
 		(stroke
 			(width 0)
@@ -1326,72 +1474,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 143.51 55.88 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0517347b-6a48-4f71-b95c-19375055f989")
-		(property "Reference" "#PWR05"
-			(at 143.51 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 143.51 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 143.51 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 143.51 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 143.51 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bc33e98c-0f6d-4c72-aa95-21f549e8fd0a")
-		)
-		(instances
-			(project "resistor circuit"
-				(path "/509d3974-e6ed-414a-b815-782fed6f3dc0"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_SL_Resistors:Resistor")
 		(at 104.14 72.39 90)
 		(unit 1)
@@ -1456,71 +1538,6 @@
 			(project "resistor circuit"
 				(path "/509d3974-e6ed-414a-b815-782fed6f3dc0"
 					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 123.19 46.99 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "229c348d-66d9-4ede-bd8b-be8228f75c79")
-		(property "Reference" "#PWR04"
-			(at 123.19 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 123.19 43.688 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 123.19 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 123.19 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 123.19 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "19880b53-3f95-45d2-aedb-44ce14db1df4")
-		)
-		(instances
-			(project "resistor circuit"
-				(path "/509d3974-e6ed-414a-b815-782fed6f3dc0"
-					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -1702,7 +1719,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 64.77 74.93 0)
+		(at 64.77 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1711,7 +1728,7 @@
 		(fields_autoplaced yes)
 		(uuid "5e14a015-0efd-433e-bdce-b682e3b2e597")
 		(property "Reference" "#PWR01"
-			(at 64.77 81.28 0)
+			(at 64.77 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1720,7 +1737,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 64.77 80.01 0)
+			(at 64.77 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1728,7 +1745,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 74.93 0)
+			(at 64.77 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1737,7 +1754,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 74.93 0)
+			(at 64.77 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1746,7 +1763,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 74.93 0)
+			(at 64.77 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2011,72 +2028,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 97.79 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "96e6a2d0-d3f0-440f-b031-c5d9b389d151")
-		(property "Reference" "#PWR03"
-			(at 97.79 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 97.79 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 97.79 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 97.79 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "36223e1d-fd05-4ccb-8ea9-59dbcee0c3c9")
-		)
-		(instances
-			(project "resistor circuit"
-				(path "/509d3974-e6ed-414a-b815-782fed6f3dc0"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Simulation_SPICE:VPWL")
 		(at 64.77 69.85 0)
 		(unit 1)
@@ -2313,72 +2264,6 @@
 			(project "resistor circuit"
 				(path "/509d3974-e6ed-414a-b815-782fed6f3dc0"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 104.14 77.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bcbd745c-478f-4a5e-b666-d98396b3d46a")
-		(property "Reference" "#PWR02"
-			(at 104.14 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 104.14 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 104.14 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 104.14 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 104.14 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cddf0442-4469-4912-aa8e-920a7ee3a537")
-		)
-		(instances
-			(project ""
-				(path "/509d3974-e6ed-414a-b815-782fed6f3dc0"
-					(reference "#PWR02")
 					(unit 1)
 				)
 			)
